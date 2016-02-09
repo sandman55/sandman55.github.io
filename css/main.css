@@ -34,3 +34,12 @@
   color: #fff;
 }
 
+.othercontact {
+	margin: 0 auto;
+	width: 500px;
+}
+
+.othercontact a {
+	margin: 0 auto;
+	width: 300px;
+}
